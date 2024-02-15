@@ -1,12 +1,7 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 1, "email": "zanvilsemail@zanvil.com", "verified": true, "status": "enabled", "lastAccess": "2024-02-14 00:15:21" },
+    { "id": 2, "email": "zanvilsemail@zanvil.com", "verified": false, "status": "disabled", "lastAccess": "2024-02-15 00:15:21" }
   ],
   "profile": {
     "name": "typicode"
