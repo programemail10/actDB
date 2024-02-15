@@ -1,6 +1,9 @@
 {
   "users": [
-    { id: 2, email: "zanvilsemail@zanvil.com", verified: true, status: "enabled", lastAccess: "" },
-    { id: 2, email: "zanvilsemail@zanvil.com", verified: false, status: "disabled", lastAccess: "" }
+    { "id": 2, "email": "zanvilsemail@zanvil.com", "verified": true, "status": "enabled", "lastAccess": "2024-02-14 00:15:21" },
+    { "id": 2, "email": "zanvilsemail@zanvil.com", "verified": false, "status": "disabled", "lastAccess": "2024-02-15 00:15:21" },
   ],
 }
+
+
+
